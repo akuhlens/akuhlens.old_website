@@ -3,10 +3,10 @@ title = "Weblog of a Computer Scientist"
 theme = "academic"
 
 # Enable comments by entering your Disqus shortname
-disqusShortname = ""
+disqusShortname = "akuhlens"
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-88660385-1"
 
 languageCode = "en-us"
 canonifyurls = true
