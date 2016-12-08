@@ -1,3 +1,11 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
-title = "My New Hugo Site"
+baseurl = "http://akuhlens.github.io/"
+title = "Weblog of a Computer Scientist"
+theme = "academic"
+
 languageCode = "en-us"
+canonifyurls = true
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
