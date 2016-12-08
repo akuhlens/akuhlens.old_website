@@ -13,12 +13,7 @@ weight = 50
 
 +++
 
-I am a teaching instructor for the following courses at University X:
+I have Assisted in teaching the following courses at Indiana University.
 
-- CS101: An intro to computer science
-- CS102: An intro to computer science
-- CS103: An intro to computer science
-- CS104: An intro to computer science
-- CS105: An intro to computer science
-- CS106: An intro to computer science
-- CS107: An intro to computer science
+- CSCI212: Intro to Progremming in Java
+- CSCI311: Intro to Programming Languages
