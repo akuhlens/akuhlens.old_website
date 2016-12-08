@@ -13,8 +13,9 @@ weight = 0
 [interests]
   title = "Interests"
   interests = [
-    "Programming Languages",
     "Software Engineering",
+    "Programming Languages",
+    "Novel Paradigms"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -40,4 +41,4 @@ weight = 0
 
 # Biography
 
-I am a computer scientist in
+I am a PhD student and computer scientist at Indiana University.
